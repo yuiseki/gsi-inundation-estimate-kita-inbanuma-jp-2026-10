@@ -1,0 +1,209 @@
+{
+ "fetched_at_utc": "2026-10-31T07:43:11+00:00",
+ "files": [
+  {
+   "path": "raw/2026-10-31/pages/R8_taihuu25gou.html",
+   "url": "https://www.gsi.go.jp/BOUSAI/R8_taihuu25gou.html",
+   "bytes": 22937,
+   "sha256": "63e01cb72cded68e5250f62861e75c5f37bae4ae92cf09dc6d51fff91a3bea74",
+   "last_modified": null,
+   "etag": null
+  },
+  {
+   "path": "raw/2026-10-31/pages/kikakuchousei40182.html",
+   "url": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
+   "bytes": 23271,
+   "sha256": "5388d2854a05f3e7b41cb980ecfb2de75b315de68e0d9c94b9334c11e580739e",
+   "last_modified": null,
+   "etag": null
+  },
+  {
+   "path": "raw/2026-10-31/20260922/shinsui_rinkaku_kita-inbanuma_20260922.zip",
+   "url": "https://www1.gsi.go.jp/geowww/saigai/20260922_typhoon25/shinsui_rinkaku_kita-inbanuma_20260922.zip",
+   "bytes": 262275,
+   "sha256": "81e16ede6bbee79f525da8ea37f056141e269e9914af0b049336f2c376ea6eef",
+   "last_modified": "Thu, 24 Sep 2026 08:48:26 GMT",
+   "etag": "\"40083-65c36a9c51495\"",
+   "kind": "geojson_zip",
+   "file_date": "20260922"
+  },
+  {
+   "path": "raw/2026-10-31/20260922/はじめにお読みください（国土地理院コンテンツ利用規約）.txt",
+   "from_zip": "shinsui_rinkaku_kita-inbanuma_20260922.zip",
+   "zip_member": "はじめにお読みください（国土地理院コンテンツ利用規約）.txt",
+   "bytes": 4376,
+   "sha256": "dde597178daa6c7aae509423fbfc42304293d4a8b75a3c9bf8ce25cc2f247f68",
+   "kind": "geojson_extracted",
+   "file_date": "20260922"
+  },
+  {
+   "path": "raw/2026-10-31/20260922/免責事項.txt",
+   "from_zip": "shinsui_rinkaku_kita-inbanuma_20260922.zip",
+   "zip_member": "免責事項.txt",
+   "bytes": 562,
+   "sha256": "a747078242aceb7bb28fb58372f444d94703deabab3a353c6c557b598221fdc9",
+   "kind": "geojson_extracted",
+   "file_date": "20260922"
+  },
+  {
+   "path": "raw/2026-10-31/20260922/輪郭線_.geojson",
+   "from_zip": "shinsui_rinkaku_kita-inbanuma_20260922.zip",
+   "zip_member": "輪郭線_.geojson",
+   "bytes": 816461,
+   "sha256": "e9d8c1382984888983c88bc873a041a873f8a325c2778908ea5324519d8acefd",
+   "kind": "geojson_extracted",
+   "file_date": "20260922"
+  },
+  {
+   "path": "raw/2026-10-31/20260922/shinsui_kita-inbanuma_20260922.pdf",
+   "url": "https://www1.gsi.go.jp/geowww/saigai/20260922_typhoon25/shinsui_kita-inbanuma_20260922.pdf",
+   "bytes": 7718104,
+   "sha256": "66b81cc5e9969911f6545a707ccec278369aaa63654469566abcc29a3202a7fa",
+   "last_modified": "Thu, 24 Sep 2026 10:23:15 GMT",
+   "etag": "\"75c4d8-65c37fce26f01\"",
+   "kind": "pdf",
+   "file_date": "20260922"
+  },
+  {
+   "path": "raw/2026-10-31/20260924/shinsui_rinkaku_kita-inbanuma_20260924.zip",
+   "url": "https://www1.gsi.go.jp/geowww/saigai/20260922_typhoon25/shinsui_rinkaku_kita-inbanuma_20260924.zip",
+   "bytes": 76620,
+   "sha256": "d1666b561c91a01c0a9e01a43d9089e652d197c9f25f8671668f83b469ba2527",
+   "last_modified": "Thu, 24 Sep 2026 10:23:26 GMT",
+   "etag": "\"12b4c-65c37fd7eea64\"",
+   "kind": "geojson_zip",
+   "file_date": "20260924"
+  },
+  {
+   "path": "raw/2026-10-31/20260924/はじめにお読みください（国土地理院コンテンツ利用規約）.txt",
+   "from_zip": "shinsui_rinkaku_kita-inbanuma_20260924.zip",
+   "zip_member": "はじめにお読みください（国土地理院コンテンツ利用規約）.txt",
+   "bytes": 4376,
+   "sha256": "dde597178daa6c7aae509423fbfc42304293d4a8b75a3c9bf8ce25cc2f247f68",
+   "kind": "geojson_extracted",
+   "file_date": "20260924"
+  },
+  {
+   "path": "raw/2026-10-31/20260924/免責事項.txt",
+   "from_zip": "shinsui_rinkaku_kita-inbanuma_20260924.zip",
+   "zip_member": "免責事項.txt",
+   "bytes": 562,
+   "sha256": "c88c9e404adbe888206c68eefd1379a75fb8c0601b89065e14476e563359f35c",
+   "kind": "geojson_extracted",
+   "file_date": "20260924"
+  },
+  {
+   "path": "raw/2026-10-31/20260924/輪郭線.geojson",
+   "from_zip": "shinsui_rinkaku_kita-inbanuma_20260924.zip",
+   "zip_member": "輪郭線.geojson",
+   "bytes": 1295035,
+   "sha256": "1d4b1b5f1e8f55f596a900a41d2a1618ed2c21c9fdfe1a4e8b2c095216ff37f8",
+   "kind": "geojson_extracted",
+   "file_date": "20260924"
+  },
+  {
+   "path": "raw/2026-10-31/20260924/shinsui_kita-inbanuma_20260924.pdf",
+   "url": "https://www1.gsi.go.jp/geowww/saigai/20260922_typhoon25/shinsui_kita-inbanuma_20260924.pdf",
+   "bytes": 7636523,
+   "sha256": "3207645dee6197c536e2dbe0a406b3c634d93efa677aef7eb3837c71a9ec352f",
+   "last_modified": "Thu, 24 Sep 2026 10:23:27 GMT",
+   "etag": "\"74862b-65c37fd8b8cd5\"",
+   "kind": "pdf",
+   "file_date": "20260924"
+  },
+  {
+   "path": "raw/2026-10-31/20260925/shinsui_rinkaku_kita-inbanuma_20260925.zip",
+   "url": "https://www1.gsi.go.jp/geowww/saigai/20260922_typhoon25/shinsui_rinkaku_kita-inbanuma_20260925.zip",
+   "bytes": 52508,
+   "sha256": "d2eb868fa305be8c1b5683434e6a72743507693feed2279fac4648c80eec1f43",
+   "last_modified": "Fri, 25 Sep 2026 07:25:46 GMT",
+   "etag": "\"cd1c-65c499ff220b8\"",
+   "kind": "geojson_zip",
+   "file_date": "20260925"
+  },
+  {
+   "path": "raw/2026-10-31/20260925/免責事項.txt",
+   "from_zip": "shinsui_rinkaku_kita-inbanuma_20260925.zip",
+   "zip_member": "免責事項.txt",
+   "bytes": 562,
+   "sha256": "0fc560f0b1650625d22cbc484d6f76e030e2713ddf90d29a7564c8d38851ca1f",
+   "kind": "geojson_extracted",
+   "file_date": "20260925"
+  },
+  {
+   "path": "raw/2026-10-31/20260925/輪郭線.geojson",
+   "from_zip": "shinsui_rinkaku_kita-inbanuma_20260925.zip",
+   "zip_member": "輪郭線.geojson",
+   "bytes": 854395,
+   "sha256": "ff6abf11ef3a2f0c853576f2ff548ceef444cb36609361f7c50016cacd85ae2e",
+   "kind": "geojson_extracted",
+   "file_date": "20260925"
+  },
+  {
+   "path": "raw/2026-10-31/20260925/はじめにお読みください（国土地理院コンテンツ利用規約）.txt",
+   "from_zip": "shinsui_rinkaku_kita-inbanuma_20260925.zip",
+   "zip_member": "はじめにお読みください（国土地理院コンテンツ利用規約）.txt",
+   "bytes": 4376,
+   "sha256": "dde597178daa6c7aae509423fbfc42304293d4a8b75a3c9bf8ce25cc2f247f68",
+   "kind": "geojson_extracted",
+   "file_date": "20260925"
+  },
+  {
+   "path": "raw/2026-10-31/20260925/shinsui_kita-inbanuma_20260925.pdf",
+   "url": "https://www1.gsi.go.jp/geowww/saigai/20260922_typhoon25/shinsui_kita-inbanuma_20260925.pdf",
+   "bytes": 7521448,
+   "sha256": "899478d8933cf20594fbb47bc4a843a70c5325483971db93b391578b15e7dd33",
+   "last_modified": "Fri, 25 Sep 2026 07:25:47 GMT",
+   "etag": "\"72c4a8-65c49a001536c\"",
+   "kind": "pdf",
+   "file_date": "20260925"
+  },
+  {
+   "path": "raw/2026-10-31/20261001/shinsui_rinkaku_kita-inbanuma_20261001.zip",
+   "url": "https://www1.gsi.go.jp/geowww/saigai/20260922_typhoon25/shinsui_rinkaku_kita-inbanuma_20261001.zip",
+   "bytes": 43389,
+   "sha256": "8be9a6c57a281daad9a7714d261d297b159ff28c21aba5de1a3f451d0125064a",
+   "last_modified": "Fri, 02 Oct 2026 05:29:05 GMT",
+   "etag": "\"a97d-65cd4cf89d3fa\"",
+   "kind": "geojson_zip",
+   "file_date": "20261001"
+  },
+  {
+   "path": "raw/2026-10-31/20261001/輪郭線.geojson",
+   "from_zip": "shinsui_rinkaku_kita-inbanuma_20261001.zip",
+   "zip_member": "輪郭線.geojson",
+   "bytes": 719487,
+   "sha256": "cf8f4d4323b9f6973577a1c430b3008d38dd411729bd7d897e51535c2151a52d",
+   "kind": "geojson_extracted",
+   "file_date": "20261001"
+  },
+  {
+   "path": "raw/2026-10-31/20261001/はじめにお読みください（国土地理院コンテンツ利用規約）.txt",
+   "from_zip": "shinsui_rinkaku_kita-inbanuma_20261001.zip",
+   "zip_member": "はじめにお読みください（国土地理院コンテンツ利用規約）.txt",
+   "bytes": 4376,
+   "sha256": "dde597178daa6c7aae509423fbfc42304293d4a8b75a3c9bf8ce25cc2f247f68",
+   "kind": "geojson_extracted",
+   "file_date": "20261001"
+  },
+  {
+   "path": "raw/2026-10-31/20261001/免責事項.txt",
+   "from_zip": "shinsui_rinkaku_kita-inbanuma_20261001.zip",
+   "zip_member": "免責事項.txt",
+   "bytes": 562,
+   "sha256": "f6d8c3f9a493db757bd2644495fcd38bda1d2ab040475c3d97e280adc354e6da",
+   "kind": "geojson_extracted",
+   "file_date": "20261001"
+  },
+  {
+   "path": "raw/2026-10-31/20261001/shinsui_kita-inbanuma_20261001.pdf",
+   "url": "https://www1.gsi.go.jp/geowww/saigai/20260922_typhoon25/shinsui_kita-inbanuma_20261001.pdf",
+   "bytes": 7500247,
+   "sha256": "fe11dcfba292adeb0fc48fa4f55983bd0b5b1bd911a0d38d0509510652b12dc6",
+   "last_modified": "Fri, 02 Oct 2026 05:29:05 GMT",
+   "etag": "\"7271d7-65cd4cf98435e\"",
+   "kind": "pdf",
+   "file_date": "20261001"
+  }
+ ]
+}

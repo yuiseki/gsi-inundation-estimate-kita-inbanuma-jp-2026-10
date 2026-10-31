@@ -1,0 +1,82 @@
+{
+ "raw": "raw/2026-10-31",
+ "rows": 4,
+ "versions": {
+  "20260922": {
+   "features": 1,
+   "geometry_types": [
+    "MultiPolygon"
+   ],
+   "invalid": 0,
+   "bounds": [
+    140.2375760578345,
+    35.76458393300268,
+    140.2770522006888,
+    35.830035628206076
+   ],
+   "area_km2": 5.595775000000178,
+   "version_time": "2026-09-22T14:00:00+09:00",
+   "published": "2026-09-24",
+   "file_date": "20260922",
+   "declared_crs": null,
+   "geojson_members_features": 1
+  },
+  "20260924": {
+   "features": 1,
+   "geometry_types": [
+    "MultiPolygon"
+   ],
+   "invalid": 0,
+   "bounds": [
+    140.222878,
+    35.764629,
+    140.273063,
+    35.829684
+   ],
+   "area_km2": 4.939247251443634,
+   "version_time": "2026-09-24T14:00:00+09:00",
+   "published": "2026-09-24",
+   "file_date": "20260924",
+   "declared_crs": null,
+   "geojson_members_features": 1
+  },
+  "20260925": {
+   "features": 1,
+   "geometry_types": [
+    "MultiPolygon"
+   ],
+   "invalid": 0,
+   "bounds": [
+    140.250833,
+    35.774702,
+    140.272683,
+    35.825742
+   ],
+   "area_km2": 3.1509487633300766,
+   "version_time": "2026-09-25T11:00:00+09:00",
+   "published": "2026-09-25",
+   "file_date": "20260925",
+   "declared_crs": null,
+   "geojson_members_features": 1
+  },
+  "20261001": {
+   "features": 1,
+   "geometry_types": [
+    "MultiPolygon"
+   ],
+   "invalid": 0,
+   "bounds": [
+    140.250888,
+    35.784417,
+    140.268053,
+    35.823138
+   ],
+   "area_km2": 1.3177020166764108,
+   "version_time": "2026-10-01T16:00:00+09:00",
+   "published": "2026-10-02",
+   "file_date": "20261001",
+   "declared_crs": null,
+   "geojson_members_features": 1
+  }
+ }
+}

@@ -1,0 +1,38 @@
+source: 国土地理院 浸水推定図「北印旛沼」(令和8年台風第25号)
+url: https://www.gsi.go.jp/BOUSAI/R8_taihuu25gou.html
+files_url: https://www1.gsi.go.jp/geowww/saigai/20260922_typhoon25/
+terms: https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html
+license: 国土地理院コンテンツ利用規約 (公共データ利用規約 第1.0版, CC BY 4.0 互換)
+fetched_at_utc: "2026-10-31T07:43:11+00:00"
+raw: raw/2026-10-31/ (MANIFEST.json has url, bytes, sha256)
+versions:
+  - file_date: "20260922"
+    version_time: "2026-09-22T14:00:00+09:00"
+    published: "2026-09-24"
+    features: 1
+    area_km2_epsg6677: 5.595775
+    geojson_sha256: e9d8c1382984888983c88bc873a041a873f8a325c2778908ea5324519d8acefd
+    zip_sha256: 81e16ede6bbee79f525da8ea37f056141e269e9914af0b049336f2c376ea6eef
+  - file_date: "20260924"
+    version_time: "2026-09-24T14:00:00+09:00"
+    published: "2026-09-24"
+    features: 1
+    area_km2_epsg6677: 4.939247
+    geojson_sha256: 1d4b1b5f1e8f55f596a900a41d2a1618ed2c21c9fdfe1a4e8b2c095216ff37f8
+    zip_sha256: d1666b561c91a01c0a9e01a43d9089e652d197c9f25f8671668f83b469ba2527
+  - file_date: "20260925"
+    version_time: "2026-09-25T11:00:00+09:00"
+    published: "2026-09-25"
+    features: 1
+    area_km2_epsg6677: 3.150949
+    geojson_sha256: ff6abf11ef3a2f0c853576f2ff548ceef444cb36609361f7c50016cacd85ae2e
+    zip_sha256: d2eb868fa305be8c1b5683434e6a72743507693feed2279fac4648c80eec1f43
+  - file_date: "20261001"
+    version_time: "2026-10-01T16:00:00+09:00"
+    published: "2026-10-02"
+    features: 1
+    area_km2_epsg6677: 1.317702
+    geojson_sha256: cf8f4d4323b9f6973577a1c430b3008d38dd411729bd7d897e51535c2151a52d
+    zip_sha256: 8be9a6c57a281daad9a7714d261d297b159ff28c21aba5de1a3f451d0125064a
+rows: 4
+processing: read GeoJSON as served, wrote GeoParquet (EPSG:4326), added columns; no correction, repair, simplification or reprojection

@@ -1,0 +1,32 @@
+{
+ "repo": "yuiseki/gsi-inundation-estimate-kita-inbanuma-jp-2026-10",
+ "revision": "e760fbab7cdad6bc7de9adf78320cf3eca7ff288",
+ "files_checked": 39,
+ "files_on_hub": 40,
+ "tables": {
+  "parquet/inundation_kita_inbanuma.parquet": {
+   "rows": 4,
+   "non_null": {
+    "version_time": 4,
+    "published": 4,
+    "source_url": 4,
+    "source_file": 4,
+    "geojson_member": 4,
+    "geojson_sha256": 4,
+    "pdf_url": 4,
+    "pdf_sha256": 4,
+    "feature_index": 4,
+    "properties_json": 4,
+    "FID": 2,
+    "_color": 3,
+    "_opacity": 3,
+    "_weight": 3,
+    "_fillColor": 3,
+    "_fillOpacity": 3,
+    "geometry": 4,
+    "bbox": 4
+   }
+  }
+ },
+ "problems": []
+}

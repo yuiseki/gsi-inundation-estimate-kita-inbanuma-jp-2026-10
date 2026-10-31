@@ -1,0 +1,150 @@
+{
+ "duckdb_rows": 4,
+ "versions": {
+  "20260922": {
+   "gdal": {
+    "layer": "\u8f2a\u90ed\u7dda_",
+    "features": 1,
+    "geometry_type": "Multi Polygon",
+    "bbox": [
+     140.237576,
+     35.764584,
+     140.277052,
+     35.830036
+    ],
+    "epsg": "4326",
+    "area_km2": 5.59577500000019,
+    "invalid": 0
+   },
+   "parquet": {
+    "rows": 1,
+    "bbox": [
+     140.2375760578345,
+     35.76458393300268,
+     140.2770522006888,
+     35.830035628206076
+    ],
+    "area_km2": 5.595775000000178,
+    "invalid": 0
+   },
+   "checks": {
+    "features_gdal_eq_json": true,
+    "rows_eq_features": true,
+    "type": true,
+    "epsg4326": true,
+    "bbox": true,
+    "area": true,
+    "invalid": true
+   }
+  },
+  "20260924": {
+   "gdal": {
+    "layer": "\u8f2a\u90ed\u7dda",
+    "features": 1,
+    "geometry_type": "Multi Polygon",
+    "bbox": [
+     140.222878,
+     35.764629,
+     140.273063,
+     35.829684
+    ],
+    "epsg": "4326",
+    "area_km2": 4.93924725144364,
+    "invalid": 0
+   },
+   "parquet": {
+    "rows": 1,
+    "bbox": [
+     140.222878,
+     35.764629,
+     140.273063,
+     35.829684
+    ],
+    "area_km2": 4.939247251443634,
+    "invalid": 0
+   },
+   "checks": {
+    "features_gdal_eq_json": true,
+    "rows_eq_features": true,
+    "type": true,
+    "epsg4326": true,
+    "bbox": true,
+    "area": true,
+    "invalid": true
+   }
+  },
+  "20260925": {
+   "gdal": {
+    "layer": "\u8f2a\u90ed\u7dda",
+    "features": 1,
+    "geometry_type": "Multi Polygon",
+    "bbox": [
+     140.250833,
+     35.774702,
+     140.272683,
+     35.825742
+    ],
+    "epsg": "4326",
+    "area_km2": 3.15094876333009,
+    "invalid": 0
+   },
+   "parquet": {
+    "rows": 1,
+    "bbox": [
+     140.250833,
+     35.774702,
+     140.272683,
+     35.825742
+    ],
+    "area_km2": 3.1509487633300766,
+    "invalid": 0
+   },
+   "checks": {
+    "features_gdal_eq_json": true,
+    "rows_eq_features": true,
+    "type": true,
+    "epsg4326": true,
+    "bbox": true,
+    "area": true,
+    "invalid": true
+   }
+  },
+  "20261001": {
+   "gdal": {
+    "layer": "\u8f2a\u90ed\u7dda",
+    "features": 1,
+    "geometry_type": "Multi Polygon",
+    "bbox": [
+     140.250888,
+     35.784417,
+     140.268053,
+     35.823138
+    ],
+    "epsg": "4326",
+    "area_km2": 1.31770201667643,
+    "invalid": 0
+   },
+   "parquet": {
+    "rows": 1,
+    "bbox": [
+     140.250888,
+     35.784417,
+     140.268053,
+     35.823138
+    ],
+    "area_km2": 1.3177020166764108,
+    "invalid": 0
+   },
+   "checks": {
+    "features_gdal_eq_json": true,
+    "rows_eq_features": true,
+    "type": true,
+    "epsg4326": true,
+    "bbox": true,
+    "area": true,
+    "invalid": true
+   }
+  }
+ },
+ "mismatches": []
+}
